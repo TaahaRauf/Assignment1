@@ -1,16 +1,12 @@
-//#include <iostream>
+//#include<iostream>
 //using namespace std;
-//#include <iomanip>
+//int main()
+//{
+//	cout << "BBBBBB     JJJJJ     AAAAA     RRRRR     N     N     EEEEE\n";
+//	cout << "B     B       J      A   A     R   R     NN    N     E\n";
+//	cout << "BBBBBB        J      AAAAA     RRRRR     N N   N     EEE\n";
+//	cout << "B     B    J  J      A   A     R R       N  N  N     E\n";
+//	cout << "BBBBBB     JJJJ      A   A     R   R     N   N N     EEEEEs\n";
 //
-//int main() {
-//
-//	cout << "BBBBBB     JJJJJ     AAAAA" << endl;
-//	cout << "B     B       J      A   A" << endl;
-//	cout << "BBBBBB        J      AAAAA" << endl;
-//	cout << "B     B    J  J      A   A" << endl;
-//	cout << "BBBBBB     JJJJ      A   A";
-//
-//
-//	return 0;
 //
 //}
