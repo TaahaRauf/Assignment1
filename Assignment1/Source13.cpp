@@ -5,33 +5,33 @@
 //using namespace std;
 //int main() {
 //	float annualrate;
-//	int  numberOfPayments;
+//	int  numberofpayments;
 //	int loan;
 //	float monthlypayments;
-//	double Amountpaid;
-//	float interestPaid;
-//	cout << "Enter the amount of Loan ";
+//	float amountpaid;
+//	float interestpaid;
+//	cout << "enter the amount of loan ";
 //	cin >> loan;
-//	cout << "Enter the annual interest rate ";
+//	cout << "enter the annual interest rate ";
 //	cin >> annualrate;
 //	float monthlyrate = annualrate / 12;
-//	cout << "Enter the number of payments ";
-//	cin >> numberOfPayments;
-//	cout << "Enter the amount paid back ";
-//	cin >> Amountpaid;
-//	interestPaid = Amountpaid - loan;
-//	monthlypayments = (((monthlyrate) * (pow(1 + monthlyrate, numberOfPayments))) / (pow(1 + monthlyrate, numberOfPayments) - 1)) * loan;
-//	cout << "Loan Amount : " << setw(10) << "$ " <<  loan << endl; 
-//	cout << "Monthly interest Rate : " << setw(10) << "$ " << monthlyrate << endl;
-//	cout << "Number of Payments " << setw(10) << numberOfPayments << endl;
-//	cout << "Monthly Payments : " << setw(10) << "$ " << monthlypayments << endl;
-//	cout << "Amount Paid Back :" << setw(10) << "$ " << Amountpaid << endl;
-//	cout << "Interest Paid : " << setw(10) << "$ " << interestPaid << endl;
+//	cout << "enter the number of payments ";
+//	cin >> numberofpayments;
+//	cout << "enter the amount paid back ";
+//	cin >> amountpaid;
+//	interestpaid = amountpaid - loan;
+//	monthlypayments = (((monthlyrate) * (pow(1 + monthlyrate, numberofpayments))) / (pow(1 + monthlyrate, numberofpayments) - 1)) * loan;
+//	cout << "loan amount : " << setw(10) << "$ " <<  loan << endl; 
+//	cout << "monthly interest rate : " << setw(10) << "$ " << monthlyrate << endl;
+//	cout << "number of payments " << setw(10) << numberofpayments << endl;
+//	cout << "monthly payments : " << setw(10) << "$ " << monthlypayments << endl;
+//	cout << "amount paid back :" << setw(10) << "$ " << fixed << setprecision(2) << amountpaid << endl;
+//	cout << "interest paid : " << setw(10) << "$ " << interestpaid << endl;
 //
 //
 //
 //
 //
 //	
-//	return 0;
+//	//return 0;
 //}
